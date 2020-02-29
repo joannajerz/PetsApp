@@ -1,2 +1,0 @@
-# PetsApp
-Created with CodeSandbox
